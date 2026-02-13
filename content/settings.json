@@ -1,0 +1,37 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://FreeIran.com/",
+    "title": "We Are Mahsa Amini",
+    "titleTemplate": "%s",
+    "description": "Free Iran.",
+    "author": "Free Iran",
+    "avatar": "../content/images/gatsby.png",
+    "bio": "Free Iran",
+    "social": {
+      "mail": "mailto:info@freeIran.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "#FreeIran" },
+    "navigation": {
+      "header": [
+        { "label": "QR Code", "url": "/qrcode" },
+        { "label": "Death Count", "url": "/death-count" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Be Our Voice",
+        "url": "https://twitter.com/intent/tweet?text=I%20stand%20with%20the%20Iranian%20people%20and%20%23FreeIran%20movement.%20%23%D9%85%D9%87%D8%B3%D8%A7_%D8%A7%D9%85%DB%8C%D9%86%DB%8C%20%23OpIran%20"
+      },
+      "footer": [
+        { "label": "Contribute on Github", "url": "https://github.com/FreeIran/Homepage" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": true,
+      "useDarkModeBasedOnUsersPreference": false,
+      "useCookieBar": false
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "intro": "Hi, there",
+  "heroPhoto1": {
+    "src": "../../images/mahsaamini.jpeg",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "You may be wondering, what's going on In Iran?",
+  "subtitle": {
+    "prefix": "Thousands of Iranian were Shot dead on 8th and 9th of January 2026 when they rushed to the streets to protest against the terrorist regime of Iran ",
+    "highlight": "They killed injured people on the hospital beds and arrested/killed doctors who were trying to help them.",
+    "suffix": " The death toll is still going on."
+  },
+  "description": "",
+  "socialProfiles1": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": false
+  }
+}

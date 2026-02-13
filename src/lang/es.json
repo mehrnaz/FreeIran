@@ -1,0 +1,50 @@
+{
+  "language": "Spanish",
+  "block": [
+    {
+      "greeting": "Hola",
+      "question": "¿Qué está pasando en Irán?",
+      "answer": "Irán está experimentando un levantamiento nacional impulsado por años de represión, desigualdad y voces silenciadas. Lo que comenzó como protestas dispersas ha evolucionado hacia un movimiento más amplio que exige un cambio político y social fundamental."
+    },
+    {
+      "question": "¿Por qué protestan las personas?",
+      "answer": "Muchos iraníes ahora creen que una reforma significativa dentro del sistema actual es imposible, y están exigiendo un cambio estructural, rendición de cuentas y dignidad. Exigen un cambio de régimen."
+    },
+    {
+      "question": "¿Qué están coreando?",
+      "answer": [
+        {
+          "list": [
+            "\"Esta es la última batalla, Pahlavi regresará\"",
+            "\"Abajo la República Islámica\"",
+            "\"¡El régimen islámico debe irse!\"",
+            "\"Una sola solución, revolución.\"",
+            "\"¡Los akhúnd (clérigos chiíes) deben irse!\"",
+            "\"¡Muerte al dictador!\"",
+            "\"¡Viva el shah!\"",
+            "\"Lucharemos y moriremos hasta recuperar Irán.\""
+          ]
+        }
+      ]
+    },
+    {
+      "question": "¿Qué piden los manifestantes fuera de Irán?",
+      "answer": [
+        "Muestran su apoyo a los iraníes dentro de Irán protestando y hacen todo lo posible para ayudar a detener el régimen terrorista de Irán. Sus seis demandas son claras:",
+        {
+          "list": [
+            "Desmantelar la maquinaria de represión del régimen y proteger al pueblo de Irán",
+            "Cortar completamente las fuentes financieras del régimen",
+            "Garantizar internet y comunicaciones libres para el pueblo de Irán",
+            "Expulsar a los \"diplomáticos\" del régimen y procesar a sus criminales",
+            "Liberación inmediata de todos los presos políticos",
+            "Prepararse para reconocer un gobierno de transición legítimo que conduzca a Irán hacia la democracia"
+          ]
+        },
+        "El gobierno ocupante de la República Islámica ha intentado quebrar la voluntad de nuestra nación mediante masacres y violencia brutal. Ha fracasado. Estos terroristas invasores, ajenos a Irán, han masacrado a decenas de miles de iraníes valientes y han cortado el internet para ocultar sus crímenes. Sin embargo, el pueblo de Irán sigue de pie frente a las balas, levantando el grito de libertad y amor por la patria. La era del miedo ha terminado. La era de la libertad está cerca. Los iraníes se han levantado. Quieren recuperar su libertad."
+      ]
+    }
+  ],
+  "help": "Puedes ayudar...",
+  "btnText": "Sé nuestra voz"
+}

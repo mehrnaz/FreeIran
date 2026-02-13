@@ -1,0 +1,50 @@
+{
+  "language": "French",
+  "block": [
+    {
+      "greeting": "Bonjour",
+      "question": "Que se passe-t-il en Iran ?",
+      "answer": "L’Iran connaît un soulèvement national porté par des années de répression, d’inégalités et de voix réduites au silence. Ce qui a commencé comme des manifestations dispersées s’est transformé en un mouvement plus large exigeant un changement politique et social fondamental."
+    },
+    {
+      "question": "Pourquoi les gens protestent-ils ?",
+      "answer": "De nombreux Iraniens estiment désormais qu’une réforme significative au sein du système actuel est impossible et réclament un changement structurel, la responsabilité et la dignité. Ils exigent un changement de régime."
+    },
+    {
+      "question": "Que scandent-ils ?",
+      "answer": [
+        {
+          "list": [
+            "\"C’est la dernière bataille, Pahlavi reviendra\"",
+            "\"À bas la République islamique\"",
+            "\"Le régime islamique doit partir !\"",
+            "\"Une seule solution, la révolution.\"",
+            "\"Les akhounds (clercs chiites) doivent partir !\"",
+            "\"Mort au dictateur !\"",
+            "\"Vive le shah !\"",
+            "\"Nous combattrons et mourrons jusqu’à reprendre l’Iran.\""
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Que demandent les manifestants à l’extérieur de l’Iran ?",
+      "answer": [
+        "Ils montrent leur soutien aux Iraniens à l’intérieur de l’Iran en manifestant et font de leur mieux pour contribuer à arrêter le régime terroriste en Iran. Leurs six revendications sont claires :",
+        {
+          "list": [
+            "Démanteler la machine de répression du régime et protéger le peuple iranien",
+            "Couper entièrement les sources de financement du régime",
+            "Garantir un internet et des communications libres pour le peuple iranien",
+            "Expulser les « diplomates » du régime et poursuivre ses criminels",
+            "Libération immédiate de tous les prisonniers politiques",
+            "Se préparer à reconnaître un gouvernement de transition légitime pour conduire l’Iran vers la démocratie"
+          ]
+        },
+        "Le pouvoir occupant de la République islamique a tenté de briser la volonté de notre nation par des massacres et une violence brutale. Il a échoué. Ces terroristes envahisseurs, étrangers à l’Iran, ont massacré des dizaines de milliers d’Iraniens courageux et coupé l’internet pour dissimuler leurs crimes. Pourtant, le peuple iranien se tient toujours face aux balles, élevant le cri de la liberté et de l’amour de la patrie. L’ère de la peur est terminée. L’ère de la liberté est proche. Les Iraniens se sont levés. Ils veulent retrouver leur liberté."
+      ]
+    }
+  ],
+  "help": "Vous pouvez aider...",
+  "btnText": "Soyez notre voix"
+}

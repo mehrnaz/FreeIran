@@ -1,0 +1,50 @@
+{
+  "language": "Italian",
+  "block": [
+    {
+      "greeting": "Ciao",
+      "question": "Cosa sta succedendo in Iran?",
+      "answer": "L’Iran sta vivendo una rivolta nazionale alimentata da anni di repressione, disuguaglianza e voci messe a tacere. Ciò che è iniziato come proteste isolate si è evoluto in un movimento più ampio che chiede un cambiamento politico e sociale fondamentale."
+    },
+    {
+      "question": "Perché le persone stanno protestando?",
+      "answer": "Molti iraniani ora credono che una riforma significativa all’interno dell’attuale sistema sia impossibile e stanno chiedendo un cambiamento strutturale, responsabilità e dignità. Chiedono un cambio di regime."
+    },
+    {
+      "question": "Cosa stanno gridando?",
+      "answer": [
+        {
+          "list": [
+            "\"Questa è l’ultima battaglia, Pahlavi tornerà\"",
+            "\"Abbasso la Repubblica Islamica\"",
+            "\"Il regime islamico deve andare via!\"",
+            "\"Un’unica soluzione, rivoluzione.\"",
+            "\"Gli akhund (religiosi sciiti) devono andarsene!\"",
+            "\"Morte al dittatore!\"",
+            "\"Viva lo shah!\"",
+            "\"Combatteremo e moriremo finché non riprenderemo l’Iran.\""
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Cosa chiedono i manifestanti fuori dall’Iran?",
+      "answer": [
+        "Mostrano il loro sostegno agli iraniani all’interno dell’Iran protestando e fanno del loro meglio per contribuire a fermare il regime terroristico dell’Iran. Le loro sei richieste sono chiare:",
+        {
+          "list": [
+            "Smantellare la macchina repressiva del regime e proteggere il popolo iraniano",
+            "Tagliare completamente le fonti finanziarie del regime",
+            "Garantire internet e comunicazioni libere al popolo iraniano",
+            "Espellere i \"diplomatici\" del regime e perseguire i suoi criminali",
+            "Rilascio immediato di tutti i prigionieri politici",
+            "Prepararsi a riconoscere un governo di transizione legittimo per guidare l’Iran verso la democrazia"
+          ]
+        },
+        "Il dominio occupante della Repubblica Islamica ha cercato di spezzare la volontà della nostra nazione attraverso massacri e violenza brutale. Ha fallito. Questi terroristi invasori, estranei all’Iran, hanno massacrato decine di migliaia di iraniani coraggiosi e hanno interrotto internet per nascondere i loro crimini. Eppure il popolo iraniano continua a stare davanti ai proiettili, alzando il grido di libertà e amore per la patria. L’era della paura è finita. L’era della libertà è vicina. Gli iraniani si sono sollevati. Vogliono riavere la loro libertà."
+      ]
+    }
+  ],
+  "help": "Puoi aiutare...",
+  "btnText": "Sii la nostra voce"
+}

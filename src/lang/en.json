@@ -1,0 +1,50 @@
+{
+  "language": "English",
+  "block": [
+    {
+      "greeting": "Hi, there",
+      "question": "What is happening in Iran?",
+     "answer": "Iran is experiencing a nationwide uprising driven by years of repression, inequality, and silenced voices. What began as scattered protests has evolved into a broader movement demanding fundamental political and social change."
+    },
+    {
+      "question": "Why are people protesting?",
+      "answer": "Many Iranians now believe meaningful reform within the current system is impossible, and they are demanding structural change, accountability, and dignity. They demand a regime change."
+    },
+    {
+      "question": "What are they chanting?",
+      "answer": [
+        {
+          "list": [
+            "\"This is the last battle, Pahlavi will return\"",
+            "\"Down with Islamic Republic\"",
+            "\"Islamic regime must go!\"",
+            "\"One solution, revolution.\"",
+            "\"Akhunds (shia clerics) must get lost!\"",
+            "\"Death to the dictator!\"",
+            "\"Long live, shah!\"",
+            "\"We will fight and die, until we get Iran back.\""
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What are protesters outside Iran asking for?",
+      "answer": [
+        "They show their support of Iranians inside Iran by protesting and do their best to do as much as they can to help stopping the terrorist regime of Iran. Their six demands are clear:",
+        {
+          "list": [
+            "Dismantle the regime’s machinery of repression and protect the people of Iran",
+            "Cut off the regime’s financial lifelines in full",
+            "Ensure free internet and communications for the people of Iran",
+            "Expel the regime’s \"diplomats\" and prosecute its criminals",
+            "Immediate release of all political prisoners",
+            "Prepare to recognize a legitimate transitional government to lead Iran toward democracy"
+          ]
+        },
+        "The Islamic Republic’s occupying rule has tried to break our nation’s will through massacre and brutal violence. It has failed. These invading terrorists, alien to Iran, have slaughtered tens of thousands of brave Iranians and cut off the internet to hide their crimes. Yet the people of Iran still stand before bullets, raising the cry of freedom and love of country. The era of fear is over. The era of freedom is near. Iranians have risen. They want their freedom back."
+      ]
+    }
+  ],
+  "help": "You can help...",
+  "btnText": "Be our voice"
+}

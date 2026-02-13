@@ -1,0 +1,50 @@
+{
+  "language": "German",
+  "block": [
+    {
+      "greeting": "Hallo",
+      "question": "Was passiert im Iran?",
+      "answer": "Der Iran erlebt einen landesweiten Aufstand, angetrieben von Jahren der Repression, Ungleichheit und zum Schweigen gebrachten Stimmen. Was als vereinzelte Proteste begann, hat sich zu einer breiteren Bewegung entwickelt, die grundlegende politische und soziale Veränderungen fordert."
+    },
+    {
+      "question": "Warum protestieren die Menschen?",
+      "answer": "Viele Iraner glauben inzwischen, dass eine bedeutende Reform innerhalb des bestehenden Systems unmöglich ist, und fordern strukturelle Veränderungen, Rechenschaftspflicht und Würde. Sie fordern einen Regimewechsel."
+    },
+    {
+      "question": "Was rufen sie?",
+      "answer": [
+        {
+          "list": [
+            "\"Dies ist die letzte Schlacht, Pahlavi wird zurückkehren\"",
+            "\"Nieder mit der Islamischen Republik\"",
+            "\"Das islamische Regime muss gehen!\"",
+            "\"Eine Lösung, Revolution.\"",
+            "\"Die Akhunde (schiitische Geistliche) müssen verschwinden!\"",
+            "\"Tod dem Diktator!\"",
+            "\"Lang lebe der Schah!\"",
+            "\"Wir werden kämpfen und sterben, bis wir den Iran zurückbekommen.\""
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Was fordern Demonstrierende außerhalb des Iran?",
+      "answer": [
+        "Sie zeigen ihre Unterstützung für die Iraner im Iran, indem sie protestieren, und tun ihr Bestes, um so viel wie möglich dazu beizutragen, das terroristische Regime im Iran zu stoppen. Ihre sechs Forderungen sind klar:",
+        {
+          "list": [
+            "Die Unterdrückungsmaschinerie des Regimes zerschlagen und das Volk des Iran schützen",
+            "Die finanziellen Lebensadern des Regimes vollständig abschneiden",
+            "Freies Internet und freie Kommunikation für das Volk des Iran sicherstellen",
+            "Die \"Diplomaten\" des Regimes ausweisen und seine Verbrecher strafrechtlich verfolgen",
+            "Sofortige Freilassung aller politischen Gefangenen",
+            "Sich darauf vorbereiten, eine legitime Übergangsregierung anzuerkennen, die den Iran in Richtung Demokratie führt"
+          ]
+        },
+        "Die besetzende Herrschaft der Islamischen Republik hat versucht, den Willen unserer Nation durch Massaker und brutale Gewalt zu brechen. Sie ist gescheitert. Diese eindringenden Terroristen, dem Iran fremd, haben Zehntausende mutiger Iraner abgeschlachtet und das Internet abgeschaltet, um ihre Verbrechen zu verbergen. Dennoch steht das Volk des Iran weiterhin vor den Kugeln und erhebt den Ruf nach Freiheit und Vaterlandsliebe. Die Ära der Angst ist vorbei. Die Ära der Freiheit ist nahe. Die Iraner sind aufgestanden. Sie wollen ihre Freiheit zurück."
+      ]
+    }
+  ],
+  "help": "Du kannst helfen...",
+  "btnText": "Sei unsere Stimme"
+}

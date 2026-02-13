@@ -1,0 +1,50 @@
+{
+  "language": "Dutch",
+  "block": [
+    {
+      "greeting": "Hallo",
+      "question": "Wat gebeurt er in Iran?",
+      "answer": "Iran ervaart een landelijke opstand, gedreven door jaren van repressie, ongelijkheid en het het zwijgen opleggen van stemmen. Wat begon als verspreide protesten is uitgegroeid tot een bredere beweging die fundamentele politieke en sociale verandering eist."
+    },
+    {
+      "question": "Waarom protesteren de mensen?",
+      "answer": "Veel Iraniërs geloven nu dat betekenisvolle hervormingen binnen het huidige systeem onmogelijk zijn en eisen structurele verandering, verantwoording en waardigheid. Zij eisen een regimewisseling."
+    },
+    {
+      "question": "Wat scanderen zij?",
+      "answer": [
+        {
+          "list": [
+            "\"Dit is de laatste strijd, Pahlavi zal terugkeren\"",
+            "\"Weg met de Islamitische Republiek\"",
+            "\"Het islamitische regime moet weg!\"",
+            "\"Eén oplossing, revolutie.\"",
+            "\"Akhunds (sjiitische geestelijken) moeten verdwijnen!\"",
+            "\"Dood aan de dictator!\"",
+            "\"Lang leve de sjah!\"",
+            "\"Wij zullen vechten en sterven totdat we Iran terugkrijgen.\""
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Wat vragen demonstranten buiten Iran?",
+      "answer": [
+        "Zij tonen hun steun aan Iraniërs binnen Iran door te protesteren en doen hun best om zoveel mogelijk bij te dragen aan het stoppen van het terroristische regime van Iran. Hun zes eisen zijn duidelijk:",
+        {
+          "list": [
+            "Ontmantel het onderdrukkingsapparaat van het regime en bescherm het Iraanse volk",
+            "Snijd de financiële levensaders van het regime volledig af",
+            "Zorg voor vrij internet en vrije communicatie voor het Iraanse volk",
+            "Zet de \"diplomaten\" van het regime uit en vervolg zijn criminelen",
+            "Onmiddellijke vrijlating van alle politieke gevangenen",
+            "Bereid u voor om een legitieme overgangsregering te erkennen die Iran naar democratie leidt"
+          ]
+        },
+        "De bezettende heerschappij van de Islamitische Republiek heeft geprobeerd de wil van onze natie te breken door middel van bloedbaden en brute geweldpleging. Het is mislukt. Deze binnenvallende terroristen, vreemd aan Iran, hebben tienduizenden moedige Iraniërs afgeslacht en het internet afgesloten om hun misdaden te verbergen. Toch staat het Iraanse volk nog steeds tegenover kogels, terwijl het de roep om vrijheid en liefde voor het vaderland verheft. Het tijdperk van angst is voorbij. Het tijdperk van vrijheid is nabij. De Iraniërs zijn opgestaan. Zij willen hun vrijheid terug."
+      ]
+    }
+  ],
+  "help": "Je kunt helpen...",
+  "btnText": "Wees onze stem"
+}

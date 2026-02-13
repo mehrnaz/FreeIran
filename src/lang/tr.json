@@ -1,0 +1,50 @@
+{
+  "language": "Turkish",
+  "block": [
+    {
+      "greeting": "Merhaba",
+      "question": "İran’da ne oluyor?",
+      "answer": "İran, yıllardır süren baskı, eşitsizlik ve susturulmuş seslerin birikimiyle ülke çapında bir ayaklanma yaşıyor. Dağınık protestolar olarak başlayan hareket, temel siyasi ve toplumsal değişim talep eden daha geniş bir harekete dönüştü."
+    },
+    {
+      "question": "İnsanlar neden protesto ediyor?",
+      "answer": "Birçok İranlı artık mevcut sistem içinde anlamlı bir reformun imkânsız olduğuna inanıyor ve yapısal değişim, hesap verebilirlik ve onur talep ediyor. Rejim değişikliği istiyorlar."
+    },
+    {
+      "question": "Ne slogan atıyorlar?",
+      "answer": [
+        {
+          "list": [
+            "\"Bu son savaş, Pehlevi geri dönecek\"",
+            "\"İslam Cumhuriyeti’ne hayır\"",
+            "\"İslami rejim gitmeli!\"",
+            "\"Tek çözüm, devrim.\"",
+            "\"Ahundlar (Şii din adamları) defolmalı!\"",
+            "\"Diktatöre ölüm!\"",
+            "\"Şah yaşasın!\"",
+            "\"İran’ı geri alana kadar savaşacağız ve öleceğiz.\""
+          ]
+        }
+      ]
+    },
+    {
+      "question": "İran dışındaki protestocular ne talep ediyor?",
+      "answer": [
+        "İran içindeki İranlılara desteklerini protesto ederek gösteriyor ve İran’daki terörist rejimi durdurmaya yardımcı olmak için ellerinden geleni yapıyorlar. Altı talepleri nettir:",
+        {
+          "list": [
+            "Rejimin baskı mekanizmasını dağıtmak ve İran halkını korumak",
+            "Rejimin mali yaşam hatlarını tamamen kesmek",
+            "İran halkı için özgür internet ve iletişimi sağlamak",
+            "Rejimin \"diplomatlarını\" sınır dışı etmek ve suçlularını yargılamak",
+            "Tüm siyasi tutukluların derhal serbest bırakılması",
+            "İran’ı demokrasiye taşıyacak meşru bir geçiş hükümetini tanımaya hazırlanmak"
+          ]
+        },
+        "İslam Cumhuriyeti’nin işgalci yönetimi, katliam ve acımasız şiddet yoluyla ulusumuzun iradesini kırmaya çalıştı. Başarısız oldu. İran’a yabancı bu istilacı teröristler, on binlerce cesur İranlıyı katletti ve suçlarını gizlemek için interneti kesti. Buna rağmen İran halkı hâlâ kurşunların karşısında duruyor, özgürlük ve vatan sevgisi haykırışını yükseltiyor. Korku dönemi sona erdi. Özgürlük dönemi yaklaşıyor. İranlılar ayağa kalktı. Özgürlüklerini geri istiyorlar."
+      ]
+    }
+  ],
+  "help": "Yardım edebilirsiniz...",
+  "btnText": "Sesimiz olun"
+}
