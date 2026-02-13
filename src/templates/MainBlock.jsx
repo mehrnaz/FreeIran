@@ -58,12 +58,12 @@ function BlogPostTemplate(props) {
   return (
     <>
       <Seo
-        title="We Are Mahsa Amini | A Voice for Women in Iran"
+        title="Free Iran | A Voice for people in Iran"
         description="Human rights are being violated in Iran. The Iranian government is killing, beating, and arresting protesters who are fighting for women's basic human rights. Join the movement by being our voice."
       />
 
       <Helmet>
-        <meta property="og:image" content="https://wearemahsaamini.com/images/social_banner.png" />
+        <meta property="og:image" content="https://FreeIran.site/images/social_banner.png" />
         <meta property="og:image:width" content="1280" />
         <meta property="og:image:width" content="630" />
         <meta property="twitter:card" content="summary_large_image" />
@@ -109,7 +109,7 @@ function BlogPostTemplate(props) {
 
               <Animation type="fadeLeft" delay={200}>
                 <div className={classes.ImageWrapper}>
-                  <img src="/images/mahsa_amini.png" alt="About Mahsa Amini" />
+                  <img src="/images/mahsa_amini.png" alt="About Iran" />
                 </div>
               </Animation>
             </div>
@@ -135,7 +135,7 @@ function BlogPostTemplate(props) {
           <Section anchor="help" heading={lang?.help}>
             <div>
               <a
-                href="https://twitter.com/intent/tweet?text=I%20stand%20with%20the%20Iranian%20people%20and%20%23MahsaAmini%20movement.%20%23%D9%85%D9%87%D8%B3%D8%A7_%D8%A7%D9%85%DB%8C%D9%86%DB%8C%20%23OpIran%20"
+                href="https://twitter.com/intent/tweet?text=I%20stand%20with%20the%20Iranian%20people%20and%20%23FreeIran%20movement.%20%23%D9%85%D9%87%D8%B3%D8%A7_%D8%A7%D9%85%DB%8C%D9%86%DB%8C%20%23OpIran%20"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="cta-button"
